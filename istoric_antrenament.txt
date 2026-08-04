@@ -1,0 +1,4 @@
+JURNAL
+Generatia | Scor Fitness | Timp 
+--------------------------------------------------
+Gen: 001 | Fitness:  10848.3 | Timp: 16.5 sec
